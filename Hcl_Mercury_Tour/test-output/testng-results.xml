@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="252686" started-at="2019-12-23T10:21:16Z" finished-at="2019-12-23T10:25:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="252686" started-at="2019-12-23T10:21:16Z" finished-at="2019-12-23T10:25:28Z">
+      <class name="com.mercury.tours.Mercury_Sign_On_TestNg">
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:com.mercury.tours.Mercury_Sign_On_TestNg@1810399e]" name="LaunchBrowser" is-config="true" duration-ms="6904" started-at="2019-12-23T15:51:16Z" finished-at="2019-12-23T15:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="Sign_On()[pri:0, instance:com.mercury.tours.Mercury_Sign_On_TestNg@1810399e]" name="Sign_On" duration-ms="245069" started-at="2019-12-23T15:51:22Z" finished-at="2019-12-23T15:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_On -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.mercury.tours.Mercury_Sign_On_TestNg@1810399e]" name="CloseBrowser" is-config="true" duration-ms="686" started-at="2019-12-23T15:55:28Z" finished-at="2019-12-23T15:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.mercury.tours.Mercury_Sign_On_TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
